@@ -69,7 +69,8 @@ Disease-Prediction-System
 Clone the repository
 
 bash
-git clone https://github.com/YOUR_USERNAME/Disease-Prediction-System.git
+git clone https://github.com/Ahmed-Adnan-AlSalman
+/Disease-Prediction-System.git
 
 
 Install dependencies
