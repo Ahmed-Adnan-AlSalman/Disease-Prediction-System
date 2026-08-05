@@ -1,88 +1,28 @@
-# 🩺 Disease Prediction System
+# 🩺 AI-Powered Disease Prediction System
 
-A professional Machine Learning application for predicting diseases based on patient symptoms.
-
-Developed by **Ahmed Al Salman**
+An intelligent Disease Prediction System developed using Python and Machine Learning. The application predicts possible diseases based on selected symptoms through an interactive graphical user interface (GUI).
 
 ---
 
 ## 📌 Overview
 
-Disease Prediction System is a desktop application developed using Python and Machine Learning algorithms.
-
-The system predicts possible diseases from selected symptoms using three different classification models:
-
-- Decision Tree
-- Random Forest
-- Naive Bayes
-
-It also generates professional PDF reports and stores prediction history automatically.
+This project applies Machine Learning algorithms to assist in disease prediction based on user-selected symptoms. It demonstrates how Artificial Intelligence can support healthcare by providing quick and accurate predictions.
 
 ---
 
 ## ✨ Features
 
-- Modern graphical interface (ttkbootstrap)
-- Predict diseases using Machine Learning
-- Decision Tree classifier
-- Random Forest classifier
-- Naive Bayes classifier
-- Confidence percentage
-- Top 3 predictions
-- Automatic PDF report generation
-- Prediction history (CSV)
-- Professional GUI
-- Medical logo
-- Easy to use
+- Interactive Python GUI
+- Predict diseases from selected symptoms
+- Supports multiple Machine Learning models
+- Easy-to-use interface
+- Fast prediction results
+- Organized project structure
+- Open-source project
 
 ---
 
-## 🛠 Technologies
-
-- Python 3.11
-- Pandas
-- NumPy
-- Scikit-learn
-- Joblib
-- ttkbootstrap
-- ReportLab
-- Pillow
-
----
-
-## 📂 Project Structure
-
-```
-Disease Prediction System
-│
-├── assets
-├── data
-├── models
-├── results
-├── clean_code.py
-├── requirements.txt
-└── README.md
-```
-
----
-
-## 🚀 Installation
-
-Install required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-python clean_code.py
-```
-
----
-
-## 📄 Machine Learning Models
+## 🤖 Machine Learning Models
 
 - Decision Tree
 - Random Forest
@@ -90,28 +30,90 @@ python clean_code.py
 
 ---
 
-## 📊 Output
+## 🛠️ Technologies Used
 
-The system provides:
-
-- Disease Prediction
-- Confidence Score
-- Top 3 Predictions
-- PDF Medical Report
-- Prediction History
+- Python
+- Tkinter
+- Scikit-learn
+- Pandas
+- NumPy
+- Joblib
 
 ---
 
-## 👨‍💻 Developer
+## 📁 Project Structure
+
+
+Disease-Prediction-System
+│
+├── app
+│   ├── assets
+│   ├── clean_code.py
+│   ├── data_loader.py
+│   ├── models.py
+│   └── train_models.py
+│
+├── data
+├── models
+├── screenshots
+├── README.md
+├── LICENSE
+├── requirements.txt
+└── .gitignore
+
+
+---
+
+## 🚀 Installation
+
+Clone the repository
+
+bash
+git clone https://github.com/YOUR_USERNAME/Disease-Prediction-System.git
+
+
+Install dependencies
+
+bash
+pip install -r requirements.txt
+
+
+Run the application
+
+bash
+python app/clean_code.py
+
+
+---
+
+## 📷 Screenshots
+
+Application screenshots are available in the *screenshots* folder.
+
+---
+
+## 🔮 Future Improvements
+
+- Deep Learning models
+- Medical API integration
+- Cloud deployment
+- User authentication
+- Mobile application
+- Performance optimization
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
 
 Ahmed Al Salman
 
-Bachelor of Cyber Security & Networking Engineering
+Cybersecurity & Artificial Intelligence Engineer
 
-University of Central Lancashire (UCLan)
-
----
-
-## 📜 License
-
-This project is for educational purposes.
+GitHub:
+https://github.com/Ahmed-Adnan-AlSalman
