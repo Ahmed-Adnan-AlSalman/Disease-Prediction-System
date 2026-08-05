@@ -88,7 +88,8 @@ python app/clean_code.py
 ---
 
 ## 📷 Screenshots
-![Home](./screenshots/home.PNG)
+"app/screenshots/home.PNG"
+
 ---
 
 ## 🔮 Future Improvements
