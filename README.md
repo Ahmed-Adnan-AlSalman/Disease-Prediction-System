@@ -89,8 +89,17 @@ python app/clean_code.py
 
 ## 📷 Screenshots
 
-Application screenshots are available in the *screenshots* folder.
+### Home Screen
+![Home Screen](screenshots/home.png)
 
+### Symptom Selection
+![Symptom Selection](screenshots/symptoms.png)
+
+### Prediction Result
+![Prediction Result](screenshots/prediction.png)
+
+### Report
+![Report](screenshots/report.png)
 ---
 
 ## 🔮 Future Improvements
