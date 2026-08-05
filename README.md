@@ -69,7 +69,8 @@ Disease-Prediction-System
 Clone the repository
 
 bash
-git clone https://github.com/YOUR_USERNAME/Disease-Prediction-System.git
+git clone https://github.com/Ahmed-Adnan-AlSalman
+/Disease-Prediction-System.git
 
 
 Install dependencies
@@ -85,9 +86,6 @@ python app/clean_code.py
 
 
 ---
-
-## 📷 Screenshots
-
 ## 📷 Screenshots
 
 ### 🏠 Home
@@ -101,6 +99,7 @@ python app/clean_code.py
 
 ### 📄 Report
 ![Report](app/screenshots/report.PNG)
+
 ---
 
 ## 🔮 Future Improvements
