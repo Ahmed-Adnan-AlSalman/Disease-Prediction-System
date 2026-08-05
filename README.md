@@ -88,18 +88,17 @@ python app/clean_code.py
 ---
 
 ## 📷 Screenshots
+### 🏠 Home Screen
+![Home Screen](screenshots/home.PNG)
 
-### Home Screen
-![Home Screen](screenshots/home.png)
-
-### Symptom Selection
+### 🩺 Symptom Selection
 ![Symptom Selection](screenshots/symptoms.png)
 
-### Prediction Result
-![Prediction Result](screenshots/prediction.png)
+### 🤖 Prediction Result
+![Prediction Result](screenshots/prediction.PNG)
 
-### Report
-![Report](screenshots/report.png)
+### 📄 Medical Report
+![Medical Report](screenshots/report.PNG)
 ---
 
 ## 🔮 Future Improvements
